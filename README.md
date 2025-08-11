@@ -1,1 +1,2 @@
 # jalal_sons
+A full e-commerce style website for Jalal Son’s, featuring a top service announcement bar, a header with logo and action buttons, and a navigation menu with dropdowns for different product categories. It uses a Bootstrap carousel for promotional images, multiple product showcase sections (starters, bakery, deli, pizza), a promotional video area, and a detailed footer with company info, quick links, and contact details. The design follows a black, red, and white color theme, with hover effects and responsive layout for a modern look.
